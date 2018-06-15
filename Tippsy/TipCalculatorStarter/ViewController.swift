@@ -102,7 +102,7 @@ class ViewController: UIViewController {
         case false:
             billAmountTextField.keyboardAppearance = .dark
         default:
-            return
+            billAmountTextField.keyboardAppearance = .light
         }
         
     }
