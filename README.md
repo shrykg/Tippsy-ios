@@ -2,4 +2,5 @@
 
 Tip calculator app for iOS with night mode.
 
-![screen shot 2018-06-15 at 5 14 51 pm](https://user-images.githubusercontent.com/34665285/41466519-466d5e96-70c0-11e8-971d-d1eb04be86ad.png)
+![screen shot 2018-06-15 at 9 55 27 pm](https://user-images.githubusercontent.com/34665285/41479034-72af0820-70e7-11e8-9597-6d484b2f69ff.png)
+
